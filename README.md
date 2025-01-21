@@ -1,12 +1,8 @@
 # optr
 
-<!-- pkg.go.dev -->
 [![](https://pkg.go.dev/badge/github.com/s2-streamstore/optr.svg)](https://pkg.go.dev/github.com/s2-streamstore/optr)
-<!-- Discord (chat) -->
 [![](https://img.shields.io/discord/1209937852528599092?logo=discord)](https://discord.gg/vTCs7kMkAf)
-<!-- Github Actions (CI) -->
 [![](https://github.com/s2-streamstore/optr/actions/workflows/ci.yml/badge.svg)](https://github.com/s2-streamstore/optr/actions?query=branch%3Amain++)
-<!-- LICENSE -->
 [![](https://img.shields.io/github/license/s2-streamstore/optr)](./LICENSE)
 
 Package optr provides utility functions for working with optional values
