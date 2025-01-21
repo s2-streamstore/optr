@@ -63,7 +63,7 @@ Install the package using `go get`:
 go get github.com/s2-streamstore/optr@latest
 ```
 
-## SDK Docs and Reference
+## Documentation
 
 Head over to [pkg.go.dev](https://pkg.go.dev/github.com/s2-streamstore/optr)
 for detailed documentation and package reference.
@@ -71,8 +71,8 @@ for detailed documentation and package reference.
 ## Feedback
 
 We use [Github Issues](https://github.com/s2-streamstore/optr/issues) to
-track feature requests and issues with the SDK. If you wish to provide feedback,
-report a bug or request a feature, feel free to open a Github issue.
+track feature requests and issues with the package. If you wish to provide
+feedback, report a bug or request a feature, feel free to open a Github issue.
 
 ### Contributing
 
